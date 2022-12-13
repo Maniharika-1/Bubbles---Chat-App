@@ -1,4 +1,4 @@
-# Bubbles---Chat-App
+# Bubbles
 Bubbles is an android application for hassle free messaging.
 
 <a href="https://www.youtube.com/watch?v=NdKseZkJU3s
